@@ -1,0 +1,119 @@
+#header {
+background: url("https://64.media.tumblr.com/b447ff7500d07c369ffa86dda8e4a5e7/82dcfc115c9c0bb4-26/s1280x1920/60f3a78f7d90bede66c8a2026c6b4d9a2345d142.png") #e7e1d6;
+background-position-x: center;
+background-position-y: bottom;
+background-repeat: no-repeat;
+background-size: 420px 221px;
+height: 221px;
+}
+
+#header .heading {
+height: 185px;
+}
+
+#header fieldset {
+margin-top: 0px;
+}
+
+#header input#site_search {
+height: 20px;
+width: 100px;
+}
+
+h2.heading,
+h2.heading:has(+ .navigation.actions.module) {
+display: block;
+margin-top: 0;
+text-align: center;
+}
+
+div#main ul.navigation.actions,
+div#main p.navigation.actions {
+float: none;
+display: block;
+margin-top: 0;
+}
+
+div.primary.header.module ul.navigation.actions {
+text-align: right;
+}
+
+.module h3.landmark {
+display: none;
+}
+
+#dashboard ul {
+font-size: 90%;
+}
+
+div.preface.group {
+padding-left: 1em;
+padding-right: 1em;
+margin-left: 0em;
+margin-right: 0em;
+}
+
+#header .menu {
+width: 100%;
+max-width: unset;
+min-width: unset;
+border-inline: none;
+border-radius: 0;
+transform: unset;
+}
+
+#header .menu li {
+text-align: center;
+}
+
+li.blurb {
+padding: 2em 1em 1em;
+}
+
+div.chapter.preface.group h3.title {
+margin: 1.5em 0 1.75em 0;
+}
+
+.work.blurb .header .datetime,
+.series.blurb .header .datetime,
+.bookmark.blurb .header .datetime,
+.external_works-show.region .header .datetime {
+width: 100%;
+text-align: right !important;
+white-space: nowrap;
+position: top;
+margin-top: -34px !important;
+margin-right: -8px !important;
+}
+
+p.status {
+margin-top: -19px !important;
+margin-right: -5px !important;
+}
+
+li.user.short.blurb.group p.status {
+padding-top: 19px;
+}
+
+dl.meta {
+padding: 1em;
+}
+
+.reading h4.viewed {
+margin-inline: -1.1em;
+}
+
+#workskin {
+background: url("https://64.media.tumblr.com/2d7a35c99d67f702017daa327bf877db/82dcfc115c9c0bb4-76/s500x750/20c98b060824389b7e5264cf3bb6630c6a700eb9.png");
+background-size: 166px auto;
+background-position-x: center;
+background-position-y: top;
+background-repeat: no-repeat;
+margin-top: 3em;
+padding-top: 10em;
+}
+
+p.kudos {
+margin-left: 10px;
+margin-right: 10px;
+}
