@@ -1285,12 +1285,16 @@ margin-top: -36px;
 margin-right: -18px !important;
 }
 
-ul.prompt.index.group .work.blurb.group.work {
+.prompt div.header.module h5.fandoms.heading {
+  margin-bottom: 10px;
+}
+
+.prompt .blurb {
   margin-top: 2em;
   margin-bottom: 1em;
 }
 
-ul.prompt.index.group .work.blurb.group.work .datetime {
+.prompt .work.blurb.group.work .datetime {
   margin-right: -5px !important;
 }
 
