@@ -1290,8 +1290,7 @@ margin-right: -18px !important;
 }
 
 .prompt .blurb {
-  margin-top: 2em;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 .prompt .work.blurb.group.work .datetime {
