@@ -1307,6 +1307,10 @@ div.mystery.header.picture.module h4.heading {
 text-align: left !important;
 }
 
+ul.statistics.index.group li {
+  background: transparent;
+}
+
 div.draft.work {
 margin-top: 1em;
 background: transparent;
