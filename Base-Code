@@ -1307,8 +1307,22 @@ div.mystery.header.picture.module h4.heading {
 text-align: left !important;
 }
 
-ul.statistics.index.group li {
-  background: transparent;
+.statistics .index li {
+  padding: 1em;
+  border-radius: 6px;
+  border: 1px solid #dfd9ce;
+  background: transparent !important;
+}
+
+#stat_chart {
+  border: 1px solid #dfd9ce;
+  border-radius: 8px;
+  margin-top: 1em;
+  padding: 1em;
+}
+
+#stat_chart svg > rect {
+  display: none;
 }
 
 div.draft.work {
