@@ -1285,6 +1285,15 @@ margin-top: -36px;
 margin-right: -18px !important;
 }
 
+ul.prompt.index.group .work.blurb.group.work {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+ul.prompt.index.group .work.blurb.group.work .datetime {
+  margin-right: -5px !important;
+}
+
 p.status {
 margin-top: -18px !important;
 margin-right: 0px !important;
