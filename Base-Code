@@ -1307,7 +1307,8 @@ padding-top: 18px;
 }
 
 div.mystery.header.picture.module h4.heading {
-text-align: left !important;
+  margin-top: 0em;
+  text-align: left !important;
 }
 
 .statistics .index li {
