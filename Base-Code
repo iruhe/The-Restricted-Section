@@ -2024,7 +2024,7 @@ border-color: inherit !important;
   background-position-x: center;
   background-position-y: top;
   background-repeat: no-repeat;
-  margin-top: 3em;
+  margin-top: 2em;
   padding-top: 13em;
 }
 
