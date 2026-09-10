@@ -2019,13 +2019,13 @@ border-color: inherit !important;
 }
 
 #workskin {
-background: url("https://64.media.tumblr.com/2d7a35c99d67f702017daa327bf877db/82dcfc115c9c0bb4-76/s500x750/20c98b060824389b7e5264cf3bb6630c6a700eb9.png");
-background-size: 230px auto;
-background-position-x: center;
-background-position-y: top;
-background-repeat: no-repeat;
-margin-top: 3em;
-padding-top: 12em;
+  background: url("https://64.media.tumblr.com/991358bd3fe09b6921f3dee6f9224349/82dcfc115c9c0bb4-23/s500x750/acec9b08a3bcf0875a04fa27289ec8e457b67e2c.png");
+  background-size: 230px auto;
+  background-position-x: center;
+  background-position-y: top;
+  background-repeat: no-repeat;
+  margin-top: 3em;
+  padding-top: 13em;
 }
 
 .work.navigation {
