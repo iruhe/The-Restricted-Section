@@ -2056,6 +2056,17 @@ div.chapter.preface.group h3.title {
 margin: 2em 0 0 0;
 }
 
+p.kudos {
+margin-left: 20px;
+margin-right: 20px;
+padding-left: 96px;
+background: url("https://64.media.tumblr.com/75e69f1200f631c578a738c8ee75666b/82dcfc115c9c0bb4-e4/s250x400/b81c0909c8fa34d12a9699f4ac2b265f0bb148f2.png");
+background-size: 86px 108px;
+background-position: left center;
+background-repeat: no-repeat;
+min-height: 108px;
+}
+
 .stats:not(.skins .stats) dd {
 margin-inline: 0 1em;
 padding: 0;
@@ -2309,15 +2320,4 @@ content: "Challenges/Subcollections";
 
 .collection.blurb .stats dd:has(a[href$=bookmarks])::after {
 content: "Bookmarked Items";
-}
-
-p.kudos {
-margin-left: 20px;
-margin-right: 20px;
-padding-left: 96px;
-background: url("https://64.media.tumblr.com/75e69f1200f631c578a738c8ee75666b/82dcfc115c9c0bb4-e4/s250x400/b81c0909c8fa34d12a9699f4ac2b265f0bb148f2.png");
-background-size: 86px 108px;
-background-position: left center;
-background-repeat: no-repeat;
-min-height: 108px;
 }
