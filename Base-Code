@@ -2034,10 +2034,14 @@ border-color: #dfd9ce;
 }
 
 #chapters .userstuff {
-font-family: Palatino;
-font-size: 120%;
-line-height: 1.5em;
-text-align: justify;
+  font-family: Palatino;
+  font-size: 120%;
+  line-height: 1.5em;
+}
+
+#chapters .userstuff,
+#chapters .userstuff p[align="justify"] {
+  text-align: justify;
 }
 
 #chapters blockquote {
