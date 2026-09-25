@@ -1967,10 +1967,6 @@ border-radius: 8px;
 background: #f7f1e5;
 }
 
-.series .userstuff {
-text-align: justify;
-}
-
 ul.series li {
 display: block;
 }
