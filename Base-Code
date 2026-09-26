@@ -1407,7 +1407,7 @@ padding: .5em;
 }
 
 .fandom.index.group a.tag::before {
-color: #b4ada4;
+color: rgba(153, 0, 0, .8);
 font-size: 0.8em;
 letter-spacing: 0.2em;
 content: "❤︎ ";
@@ -1429,7 +1429,7 @@ border: none;
 
 .media-index .listbox,
 .letter.listbox.group {
-background: linear-gradient(90deg, #e7e1d6, transparent);
+background: linear-gradient(90deg, rgba(231, 225, 214, .5), transparent);
 border-left: 6px solid #dfd9ce;
 border-radius: 6px;
 box-shadow: none;
@@ -1685,7 +1685,7 @@ background: transparent;
 }
 
 dl.subscription.index.group {
-background: linear-gradient(90deg, #e7e1d6, transparent);
+background: linear-gradient(90deg, rgba(231, 225, 214, .5), transparent);
 border-left: 6px solid #dfd9ce;
 border-radius: 6px;
 padding: 1em 0;
