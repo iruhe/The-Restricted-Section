@@ -1225,11 +1225,12 @@ margin-top: 1.25em;
 .series.blurb .header h4.heading a:first-child,
 .bookmark.blurb .header h4.heading a:first-child,
 .external_works-show.region .header h4.heading a:first-child {
-display: block;
-width: 100%;
-font-weight: bold;
-text-align: center !important;
-font-size: 120%;
+  padding-top: .5em;
+  display: block;
+  width: 100%;
+  font-weight: bold;
+  text-align: center !important;
+  font-size: 120%;
 }
 
 .work.blurb .header h4.heading,
