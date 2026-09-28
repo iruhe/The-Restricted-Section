@@ -103,14 +103,16 @@ padding: 1em;
 margin-inline: -1.1em;
 }
 
+mobile
+
 #workskin {
-  background: url("https://64.media.tumblr.com/991358bd3fe09b6921f3dee6f9224349/82dcfc115c9c0bb4-23/s500x750/acec9b08a3bcf0875a04fa27289ec8e457b67e2c.png");
+  background: url("https://64.media.tumblr.com/e6a70d3fb36f5bbcfe220d5f1bd8d490/82dcfc115c9c0bb4-dd/s500x750/1e5409999c76f6e358ec9937149613584719ddd2.png");
   background-size: 166px auto;
   background-position-x: center;
   background-position-y: top;
   background-repeat: no-repeat;
   margin-top: 2em;
-  padding-top: 10em;
+  padding-top: 11em;
 }
 
 p.kudos {
