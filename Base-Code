@@ -2022,7 +2022,7 @@ border-color: inherit !important;
   background-position-y: top;
   background-repeat: no-repeat;
   margin-top: 2em;
-  padding-top: 14em;
+  padding: 14em 2em 0 2em;
 }
 
 .work.navigation {
