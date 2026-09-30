@@ -112,7 +112,7 @@ mobile
   background-position-y: top;
   background-repeat: no-repeat;
   margin-top: 2em;
-  padding: 11em 1em 0 1em;
+  padding: 11em 2% 0 2%;
 }
 
 p.kudos {
