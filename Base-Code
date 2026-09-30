@@ -1939,18 +1939,18 @@ content: "";
 
 .preface p {
 font-family: Palatino;
-text-align: justify;
+text-align: left;
 }
 
 .preface li {
 font-family: Palatino;
 line-height: 1.5em;
-text-align: justify;
+text-align: left;
 }
 
 ul.associations {
 font-family: Palatino;
-text-align: justify;
+text-align: left;
 padding-left: .6em;
 }
 
@@ -2042,7 +2042,7 @@ border-color: #dfd9ce;
 
 #chapters .userstuff,
 #chapters .userstuff p[align="justify"] {
-  text-align: justify;
+  text-align: left;
 }
 
 #chapters blockquote {
