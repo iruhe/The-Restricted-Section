@@ -103,8 +103,6 @@ padding: 1em;
 margin-inline: -1.1em;
 }
 
-mobile
-
 #workskin {
   background: url("https://64.media.tumblr.com/e6a70d3fb36f5bbcfe220d5f1bd8d490/82dcfc115c9c0bb4-dd/s500x750/1e5409999c76f6e358ec9937149613584719ddd2.png");
   background-size: 166px auto;
