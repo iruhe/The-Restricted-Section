@@ -20,6 +20,11 @@ height: 20px;
 width: 100px;
 }
 
+.filters {
+  height: 100%;
+  background: #e7e1d6;
+}
+
 h2.heading,
 h2.heading:has(+ .navigation.actions.module) {
 display: block;
