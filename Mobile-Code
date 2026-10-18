@@ -22,8 +22,8 @@ width: 100px;
 
 .filters {
   height: 100%;
+  border-left: 1px solid #dfd9ce;
   background: #e7e1d6;
-}
 
 h2.heading,
 h2.heading:has(+ .navigation.actions.module) {
