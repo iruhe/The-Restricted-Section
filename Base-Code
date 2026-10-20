@@ -1746,7 +1746,7 @@ li.own.work.blurb {
 }
 
 #main.invitations-index.dashboard.region form dl {
-  background: #e7e1d6;
+  background: #efe9dd;
   border: 1px solid #dfd9ce;
   border-radius: 8px;
   box-shadow: none;
