@@ -120,7 +120,7 @@ margin-inline: -1.1em;
   background-position-y: top;
   background-repeat: no-repeat;
   margin-top: 2em;
-  padding: 11em 2% 0 2%;
+  padding: 11em 1em 0 1em;
 }
 
 p.kudos {
