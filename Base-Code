@@ -83,6 +83,7 @@ div.own.user.module.group {
 #main.languages-index.region,
 #main.works-navigate.region {
   border: 1px solid #dfd9ce;
+  background: #f4eee2;
   border-radius: 8px;
   padding-top: 2em;
   margin: 3em 2em 2em 2em !important;
@@ -854,7 +855,7 @@ h3 {
   padding-top: .25em;
   padding-left: 1em;
   padding-right: 1em;
-  background: #f7f1e5;
+  background: #f4eee2;
 }
 
 .tagset .header.module,
@@ -864,8 +865,13 @@ li.skins.picture.blurb.group .header.module {
   border-bottom: 1px solid #dfd9ce;
 }
 
+li.skins.own.picture.blurb.group {
+  background: #f4eee2;
+}
+
 .collection .preface.group {
   border: 1px solid #dfd9ce;
+  background: #f4eee2;
   border-radius: 8px;
   padding: 2em;
 }
@@ -1211,13 +1217,14 @@ a[data-remote="true"]) li::after {
   color: #fff;
 }
 
+li.own.work.blurb,
 li.blurb {
   border-radius: 8px;
   border: 1px solid #dfd9ce;
   box-shadow: none;
   padding: 2em;
   margin-bottom: 1em;
-  background: #f7f1e5;
+  background: #f4eee2;
 }
 
 li.blurb .summary {
@@ -1482,7 +1489,7 @@ fieldset fieldset.listbox {
   padding: 1em;
   border: 1px solid #dfd9ce;
   border-radius: 8px;
-  background: #f7f1e5;
+  background: #f4eee2;
 }
 
 .browse.module h3.heading,
@@ -1740,11 +1747,6 @@ div.draft.work dl.work.meta.group {
   margin-top: 1px;
 }
 
-li.own.work.blurb {
-  border: 1px solid #dfd9ce;
-  border-radius: 8px;
-}
-
 #main.invitations-index.dashboard.region form dl {
   background: #efe9dd;
   border: 1px solid #dfd9ce;
@@ -1780,7 +1782,7 @@ div.comment textarea {
 }
 
 li.comment:not(:has(.edit_comment)) {
-  background: #f7f1e5;
+  background: #f4eee2;
   border: 1px solid #dfd9ce;
   border-radius: 8px;
   padding: 0.643em 0.643em 0.629em 0.643em;
@@ -1795,7 +1797,7 @@ li.comment:not(:has(.edit_comment)) {
 }
 
 ol.comment.index.group .unread {
-  background: #f7f1e5;
+  background: #f4eee2;
 }
 
 ol.comment.index.group .read {
@@ -1804,7 +1806,7 @@ ol.comment.index.group .read {
 
 .replied,
 span.unread {
-  background: #f7f1e5 !important;
+  background: #f4eee2 !important;
   box-shadow: none;
   border-radius: 13.5px;
   border: 1px solid #dfd9ce;
@@ -1973,7 +1975,7 @@ div.news .module .userstuff {
   padding: 2em;
   border: 1px solid #dfd9ce;
   border-radius: 8px;
-  background: #f7f1e5;
+  background: #f4eee2;
 }
 
 ul.series li {
@@ -1991,7 +1993,7 @@ div#work-skin.wrapper {
 }
 
 .series-show.region div.wrapper {
-  background: #f7f1e5;
+  background: #f4eee2;
   border: none;
   border-radius: 8px;
   box-shadow: none;
@@ -1999,7 +2001,7 @@ div#work-skin.wrapper {
 
 .works-show.region div.wrapper,
 .chapters-show.region div.wrapper {
-  background: url("https://64.media.tumblr.com/f1b9c6db9d0b8e87cf451dfd56f9d2d3/82dcfc115c9c0bb4-c7/s250x400/db5bcaaed9202f9c3bb508c25a9ad3b81644d9f4.png") #f7f1e5;
+  background: url("https://64.media.tumblr.com/f1b9c6db9d0b8e87cf451dfd56f9d2d3/82dcfc115c9c0bb4-c7/s250x400/db5bcaaed9202f9c3bb508c25a9ad3b81644d9f4.png") #f4eee2;
   background-size: 101px auto;
   background-position-x: right;
   background-position-y: top;
