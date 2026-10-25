@@ -19,7 +19,7 @@
   height: 18px;
   padding: 2px;
   background: transparent;
-  filter: brightness(0) saturate(100%) invert(3%) sepia(87%) saturate(5618%) hue-rotate(46deg) brightness(96%) contrast(111%);
+  filter: brightness(0) saturate(100%) invert(3%) sepia(79%) saturate(4621%) hue-rotate(4deg) brightness(104%) contrast(107%);
 }
 
 #header #greeting > ul > li:is(.open,
@@ -27,7 +27,7 @@
 :focus) > a,
 #header #greeting > ul > li > a:is(:hover,
 :focus) {
-  filter: brightness(0) saturate(100%) invert(3%) sepia(87%) saturate(5618%) hue-rotate(46deg) brightness(96%) contrast(111%);
+  filter: brightness(0) saturate(100%) invert(3%) sepia(79%) saturate(4621%) hue-rotate(4deg) brightness(104%) contrast(107%);
 }
 
 #header > nav .user {
@@ -120,7 +120,7 @@ div#main.gifts-index.dashboard.region {
 }
 
 dd.required p {
-  color: #140000;
+  color: #280000;
 }
 
 #header fieldset {
@@ -162,7 +162,7 @@ dd.required p {
 
 form.search input[type="text"] {
   border-radius: 6px;
-  font-size: 90%;
+  font-size: 85%;
 }
 
 .search [role="tooltip"],
@@ -171,7 +171,7 @@ form.search input[type="text"] {
   border-radius: 6px;
   box-shadow: none;
   background: #fbf8f2;
-  color: #140000;
+  color: #280000;
 }
 
 input::file-selector-button {
@@ -185,7 +185,7 @@ input,
 textarea,
 select {
   background: #fbf8f2;
-  color: #140000;
+  color: #280000;
   width: 100%;
   max-width: 100%;
   border: 1px solid #dfd9ce !important;
@@ -225,12 +225,12 @@ input[type=radio] {
 }
 
 .filters [type="checkbox"]:checked + .indicator:before {
-  color: #140000;
+  color: #280000;
   border: 1px solid #dfd9ce !important;
 }
 
 .filters .exclude [type="checkbox"]:checked + .indicator:before {
-  color: #140000;
+  color: #280000;
   border: 1px solid #dfd9ce !important;
 }
 
@@ -383,7 +383,7 @@ img[src$="/images/skins/iconsets/default/rating-notrated.png"],
 img[src$="/images/skins/iconsets/default/category-none.png"],
 img[src$="/images/skins/iconsets/default/warning-no.png"] {
   background: #e7e1d6;
-  color: #140000;
+  color: #280000;
 }
 
 .blurb .header:has(ul.required-tags) .heading {
@@ -546,7 +546,7 @@ img[src$="/images/skins/iconsets/default/bookmark-private.png"] {
 .status .hidden,
 img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
   background: url("https://i.ibb.co/4gSvnrkb/zerafina-icon-bookmark-locked-01.png");
-  background-color: #140000;
+  background-color: #280000;
   color: #00000040;
 }
 
@@ -576,7 +576,7 @@ a.rss span {
 
 img[src$="/images/lockblue.png"] {
   content: url("https://i.ibb.co/kVCsBwzY/zerafina-icon-lock-01.png");
-  filter: brightness(0) saturate(100%) invert(3%) sepia(87%) saturate(5618%) hue-rotate(46deg) brightness(96%) contrast(111%);
+  filter: brightness(0) saturate(100%) invert(3%) sepia(79%) saturate(4621%) hue-rotate(4deg) brightness(104%) contrast(107%);
   padding-top: 5px !important;
   width: 12px !important;
   height: 12px !important;
@@ -613,7 +613,7 @@ form.verbose legend,
 }
 
 #main {
-  color: #140000;
+  color: #280000;
 }
 
 #main a {
@@ -717,7 +717,7 @@ h3 {
 }
 
 #greeting .dropdown a {
-  color: #140000 !important;
+  color: #280000 !important;
 }
 
 #header .dropdown:hover a,
@@ -907,7 +907,7 @@ button,
 input[type="submit"],
 .current,
 .actions label {
-  color: #140000 !important;
+  color: #280000 !important;
   font-weight: normal;
   background: linear-gradient(180deg, #f7f1e5, #dfd9ce);
   border: 1px solid #dfd9ce;
@@ -939,7 +939,7 @@ input[type="submit"]:hover {
   border: 1px solid #dfd9ce;
   border-radius: 13.5px;
   box-shadow: none;
-  color: #140000 !important;
+  color: #280000 !important;
 }
 
 .actions a:active,
@@ -949,7 +949,7 @@ a:link.current,
 .current a:visited {
   background: #d7d1c6 !important;
   border: 1px solid #dfd9ce;
-  color: #140000 !important;
+  color: #280000 !important;
 }
 
 .delete a,
@@ -967,7 +967,7 @@ span.delete a {
 .kudos_notice,
 ul.notes {
   box-shadow: none;
-  color: #140000;
+  color: #280000;
   background: rgba(181, 155, 164, .25);
   border: 1px solid rgba(181, 155, 164, .2);
   border-radius: 8px;
@@ -985,7 +985,7 @@ p.muted.notice {
 .flash.error,
 .alert.flash {
   box-shadow: none;
-  color: #140000;
+  color: #280000;
   background: rgba(181, 155, 164, .25);
   border: 1px solid rgba(181, 155, 164, .2);
   border-radius: 8px;
@@ -1054,7 +1054,7 @@ a.tag:not(.fandom.index.group a.tag,
 }
 
 .fandom.index.group a.tag:hover {
-  color: #666 !important;
+  color: #500000 !important;
   background: transparent;
 }
 
@@ -1073,7 +1073,7 @@ h2.heading a.tag:hover {
 }
 
 .heading a.tag:hover {
-  color: #666 !important;
+  color: #500000 !important;
   background: transparent;
 }
 
@@ -1083,52 +1083,52 @@ h2.heading a.tag:hover {
 
 a.tag {
   background: rgba(207, 200, 190, .4);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 a.tag:hover {
   background: rgba(207, 200, 190, .5);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .warnings .tag {
   background: rgba(253, 177, 184, .4);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .warnings a.tag:hover {
   background: rgba(253, 177, 184, .5);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .relationships .tag {
   background: linear-gradient(135deg, rgba(253, 177, 184, .4), rgba(249, 208, 170, .4), rgba(238, 243, 163, .4));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .relationships a.tag:hover {
   background: linear-gradient(135deg, rgba(238, 243, 163, .5), rgba(249, 208, 170, .5), rgba(253, 177, 184, .5));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .characters .tag {
   background: linear-gradient(135deg, rgba(238, 243, 163, .4), rgba(181, 218, 154, .4), rgba(170, 213, 219, .4));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .characters a.tag:hover {
   background: linear-gradient(135deg, rgba(170, 213, 219, .5), rgba(181, 218, 154, .5), rgba(238, 243, 163, .5));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .freeforms .tag {
   background: linear-gradient(135deg, rgba(170, 213, 219, .4), rgba(226, 198, 223, .4));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .freeforms a.tag:hover {
   background: linear-gradient(135deg, rgba(226, 198, 223, .5), rgba(170, 213, 219, .5));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .commas:has(.tag,
@@ -1138,72 +1138,72 @@ a[data-remote="true"]) li::after {
 
 .work .rating a.tag {
   background: rgba(207, 200, 190, .4);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .rating a.tag:hover {
   background: rgba(207, 200, 190, .5);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .warning a.tag {
   background: rgba(253, 177, 184, .4);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .warning a.tag:hover {
   background: rgba(253, 177, 184, .5);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .category a.tag {
   background: rgba(207, 200, 190, .4);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .category a.tag:hover {
   background: rgba(207, 200, 190, .5);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .fandom a.tag {
   background: rgba(207, 200, 190, .4);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .fandom a.tag:hover {
   background: rgba(207, 200, 190, .5);
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .relationship a.tag {
   background: linear-gradient(135deg, rgba(253, 177, 184, .4), rgba(249, 208, 170, .4), rgba(238, 243, 163, .4));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .relationship a.tag:hover {
   background: linear-gradient(135deg, rgba(238, 243, 163, .5), rgba(249, 208, 170, .5), rgba(253, 177, 184, .5));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .character a.tag {
   background: linear-gradient(135deg, rgba(238, 243, 163, .4), rgba(181, 218, 154, .4), rgba(170, 213, 219, .4));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .character a.tag:hover {
   background: linear-gradient(135deg, rgba(170, 213, 219, .5), rgba(181, 218, 154, .5), rgba(238, 243, 163, .5));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .freeform a.tag {
   background: linear-gradient(135deg, rgba(170, 213, 219, .4), rgba(226, 198, 223, .4));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .work .freeform a.tag:hover {
   background: linear-gradient(135deg, rgba(226, 198, 223, .5), rgba(170, 213, 219, .5));
-  color: #000 !important;
+  color: #280000 !important;
 }
 
 .resp-sharing-button--bluesky,
@@ -1385,7 +1385,7 @@ fieldset fieldset fieldset,
 fieldset fieldset dl dl,
 dd.hideme,
 form blockquote.userstuff {
-  color: #140000;
+  color: #280000;
   box-shadow: none;
   background: #efe9dd;
   border: 1px solid #dfd9ce;
@@ -1499,8 +1499,8 @@ fieldset fieldset.listbox {
 .latest.news.module h3.heading,
 .latest.messages.module.odd h3.heading,
 .social.module h3.heading {
-  color: #140000;
-  border-bottom: 1px solid #140000 !important;
+  color: #280000;
+  border-bottom: 1px solid #280000 !important;
 }
 
 .browse.module h3.heading a:link,
@@ -1517,7 +1517,7 @@ fieldset fieldset.listbox {
 .latest.messages.module.odd h3.heading a:visited,
 .social.module h3.heading a:link,
 .social.module h3.heading a:visited {
-  color: #140000 !important;
+  color: #280000 !important;
 }
 
 .browse.module h3.heading a:hover,
@@ -1527,7 +1527,7 @@ fieldset fieldset.listbox {
 .latest.news.module h3.heading a:hover,
 .latest.messages.module.odd h3.heading a:hover,
 .social.module h3.heading a:hover {
-  color: #666 !important;
+  color: #500000 !important;
 }
 
 .reading.work div.user.module.group {
@@ -1602,7 +1602,7 @@ div.dynamic {
 
 .toggled form,
 .dynamic form {
-  color: #140000;
+  color: #280000;
   background: #f1ebdf;
   border: 1px solid #dfd9ce;
   border-radius: 8px;
@@ -1670,7 +1670,7 @@ form dt {
 
 #dashboard a {
   background: transparent;
-  color: #140000 !important;
+  color: #280000 !important;
 }
 
 #dashboard a:hover {
@@ -1729,12 +1729,12 @@ dl.meta {
 
 dt.warning.tags,
 dt.warning.tags a {
-  color: #140000 !important;
+  color: #280000 !important;
   font-weight: normal;
 }
 
 dt.warning.tags a:hover {
-  color: #666 !important;
+  color: #500000 !important;
 }
 
 .statistics.meta.group {
@@ -1923,7 +1923,7 @@ div.afterword.preface.group {
 div.preface.group summary,
 div.chapter.preface.group summary,
 div.afterword.preface.group summary {
-  font-family: palatino;
+  font-family: Palatino;
 }
 
 div.children.module,
@@ -1983,7 +1983,7 @@ ul.series li {
 }
 
 .series span.divider {
-  color: #140000 !important;
+  color: #280000 !important;
   opacity: 0.25;
 }
 
@@ -2096,7 +2096,7 @@ dl.statistics dt::before {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  filter: brightness(0) saturate(100%) invert(3%) sepia(87%) saturate(5618%) hue-rotate(46deg) brightness(96%) contrast(111%);
+  filter: brightness(0) saturate(100%) invert(3%) sepia(79%) saturate(4621%) hue-rotate(4deg) brightness(104%) contrast(107%);
 }
 
 .stats a,
