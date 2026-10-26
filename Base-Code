@@ -599,9 +599,6 @@ form.verbose legend,
 
 #outer {
   background-color: #f7f1e5;
-  background-repeat: no-repeat;
-  background-position: top;
-  background-attachment: fixed !important;
 }
 
 #inner.wrapper {
