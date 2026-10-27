@@ -1751,11 +1751,6 @@ div.draft.work dl.work.meta.group {
   box-shadow: none;
 }
 
-li.user.short.blurb.group.user,
-li.own.user.short.blurb.group.user {
-  background-image: none !important;
-}
-
 .bookmark form dl {
   background: transparent;
 }
