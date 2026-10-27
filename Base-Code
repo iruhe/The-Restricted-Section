@@ -124,12 +124,12 @@ dd.required p {
 }
 
 #header fieldset {
-  margin-top: 1px;
+  margin-top: 2px;
 }
 
 #header li.search::before {
   position: absolute;
-  top: 2px;
+  top: 3px;
   left: -5px;
   font-size: 150%;
   color: #ffffff;
