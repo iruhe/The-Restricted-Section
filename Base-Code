@@ -124,7 +124,7 @@ dd.required p {
 }
 
 #header fieldset {
-  margin-top: 1.5px;
+  margin-top: 1px;
 }
 
 #header li.search::before {
@@ -156,12 +156,15 @@ dd.required p {
 }
 
 #header input#site_search {
+  background: transparent;
+  border-bottom: 1px solid #FFFFFF !important;
   height: 20px;
   width: 150px;
 }
 
 form.search input[type="text"] {
-  border-radius: 6px;
+  border-radius: 0px;
+  color: #FFFFFF !important;
   font-size: 85%;
 }
 
