@@ -124,7 +124,7 @@ dd.required p {
 }
 
 #header fieldset {
-  margin-top: 2px;
+  margin-top: 1.5px;
 }
 
 #header li.search::before {
