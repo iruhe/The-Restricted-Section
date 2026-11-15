@@ -782,15 +782,6 @@ h3 {
   word-break: normal;
 }
 
-#footer.region {
-  border: none;
-  background: url("https://64.media.tumblr.com/00e2ebba6cd52c99f1eed91736a0787c/82dcfc115c9c0bb4-45/s400x600/accc473d43f24c651ddf067be39f74bef5550c5a.png") #8d857e;
-  background-size: 140px auto;
-  background-position-x: right;
-  background-position-y: bottom;
-  background-repeat: no-repeat;
-}
-
 #footer ul.navigation.actions {
   display: flex;
   justify-content: space-between;
