@@ -1408,6 +1408,11 @@ fieldset fieldset {
 
 .comment fieldset {
   background: #e7e1d6;
+  border: 1px solid #e7e1d6;
+}
+
+.comment textarea {
+  border: 1px solid #e7e1d6 !important;
 }
 
 dt.bookmarker.search,
