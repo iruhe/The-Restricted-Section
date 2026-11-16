@@ -869,13 +869,6 @@ li.skins.own.picture.blurb.group {
   background: #f4eee2;
 }
 
-.collection .preface.group {
-  border: 1px solid #dfd9ce;
-  background: #f4eee2;
-  border-radius: 8px;
-  padding: 2em;
-}
-
 .collection .mods.commas li:after {
   content: ",";
 }
