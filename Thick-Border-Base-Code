@@ -57,7 +57,7 @@ div.css.module {
 
 div.user.module.group,
 div.own.user.module.group {
-  background: #efe9dd;
+  background: #ebe5da;
 }
 
 .reading.work div.user.module.group {
@@ -1774,7 +1774,7 @@ div.draft.work dl.work.meta.group {
 }
 
 .bookmark .user {
-  border: 1px solid #dfd9ce;
+  border: 1px solid #ebe5da;
   border-radius: 8px;
   box-shadow: none;
 }
