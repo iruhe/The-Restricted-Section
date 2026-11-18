@@ -1326,8 +1326,6 @@ div.mystery.header.picture.module h4.heading {
 #stat_chart {
   border: 1px solid #dfd9ce;
   border-radius: 8px;
-  margin-top: 1em;
-  padding: 1em;
 }
 
 #stat_chart svg > rect {
