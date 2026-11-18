@@ -1323,12 +1323,12 @@ div.mystery.header.picture.module h4.heading {
 .statistics .index li {
   padding: 1em;
   border-radius: 8px;
-  border: 1px solid #dfd9ce;
+  border: 6px solid #dfd9ce;
   background: transparent !important;
 }
 
 #stat_chart {
-  border: 1px solid #dfd9ce;
+  border: 6px solid #dfd9ce;
   border-radius: 8px;
   margin-top: 1em;
   padding: 1em;
@@ -1753,7 +1753,7 @@ dt.warning.tags a:hover {
 }
 
 .statistics.meta.group {
-  border: 1px solid #dfd9ce;
+  border: 6px solid #dfd9ce;
   border-radius: 8px;
   margin-bottom: 1em;
 }
