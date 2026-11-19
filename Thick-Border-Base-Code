@@ -1405,12 +1405,12 @@ fieldset fieldset {
 }
 
 .comment fieldset {
-  background: #e7e1d6;
-  border: 1px solid #e7e1d6;
+  background: #e5dfd4;
+  border: 1px solid #e5dfd4;
 }
 
 .comment textarea {
-  border: 1px solid #e7e1d6 !important;
+  border: 1px solid #e5dfd4 !important;
 }
 
 dt.bookmarker.search,
