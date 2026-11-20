@@ -1336,6 +1336,11 @@ div.mystery.header.picture.module h4.heading {
   display: none;
 }
 
+#stat_chart svg text {
+  fill: #280000;
+  color: #280000;
+}
+
 div.draft.work {
   margin-top: 1em;
   background: transparent;
