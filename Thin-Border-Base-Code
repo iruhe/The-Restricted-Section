@@ -1338,11 +1338,11 @@ div.mystery.header.picture.module h4.heading {
 }
 
 #stat_chart rect[fill="#cccccc"] {
-  fill: rgba(40, 0, 0, .4);
+  fill: rgba(40, 0, 0, .3);
 }
 
 #stat_chart rect[fill="#ebebeb"] {
-  fill: rgba(40, 0, 0, .2);
+  fill: rgba(40, 0, 0, .1);
 }
 
 #stat_chart rect[fill="#993333"] {
