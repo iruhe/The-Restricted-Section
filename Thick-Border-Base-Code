@@ -1350,7 +1350,7 @@ div.mystery.header.picture.module h4.heading {
 }
 
 #stat_chart rect[fill="#993333"] {
-  fill: #990000;
+  fill: #aa3337;
 }
 
 #stat_chart .google-visualization-tooltip path {
