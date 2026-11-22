@@ -1206,12 +1206,14 @@ a[data-remote="true"]) li::after {
 .resp-sharing-button--bluesky,
 .resp-sharing-button--tumblr {
   color: #fff;
+  background: #8d857e !important;
   box-shadow: none;
 }
 
 .resp-sharing-button--bluesky:hover,
 .resp-sharing-button--tumblr:hover {
   color: #fff;
+  background: #b4ada4 !important;
 }
 
 li.own.work.blurb,
